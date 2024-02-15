@@ -1,4 +1,4 @@
-package ola3;
+package jackpot;
 import javafx.scene.control.*;
 import javafx.scene.text.*;
 import javafx.event.*;
